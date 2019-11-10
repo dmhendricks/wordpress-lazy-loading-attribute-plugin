@@ -6,7 +6,7 @@
 
 # Lazy Loading Attribute for WordPress
 
-This plugin adds the lazy loading attribute to images and iframes contained within post content for [supported browsers](https://caniuse.com/#feat=loading-lazy-attr).
+This plugin adds the `loading="lazy"` attribute to images and iframes contained within post content for [supported browsers](https://caniuse.com/#feat=loading-lazy-attr).
 
 If a visitor's browser does not support the lazy loading attribute, the image/iframe will display normally without lazy loading.
 
